@@ -88,6 +88,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>appointment-service</finalName>
 	</build>
 
 </project>
