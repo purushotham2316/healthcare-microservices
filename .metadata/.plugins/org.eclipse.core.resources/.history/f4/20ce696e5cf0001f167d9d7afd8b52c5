@@ -1,0 +1,17 @@
+package com.healthcare.medical_records_service.model;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import lombok.Data;
+
+@Data
+@Document(collection="medical_records")
+public class MedicalRecord {
+
+	private String id;
+	private String doctorId;
+	private String patientId;
+	private String diagnosis;
+	private String treatment;
+	private String date;
+}

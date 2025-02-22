@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.healthcare.user_service.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.healthcare.user_service.model.User"/>
+    <fullyQualifiedTypeName name="com.healthcare.user_service.service.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="com.healthcare.medical_records_service.repository.MedicalRecordRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.healthcare.medical_records_service.service.MedicalRecordService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="jakarta.websocket.server.ServerEndpoint"/>
+    <fullyQualifiedTypeName name="com.healthcare.medical_records_service.model.MedicalRecord"/>
+    <fullyQualifiedTypeName name="org.springframework.data.mongodb.core.mapping.Document"/>
+    <fullyQualifiedTypeName name="org.springframework.data.mongodb.repository.MongoRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.healthcare.billing_service.repository.BillingRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.healthcare.billing_service.service.BillingService"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="javax.management.Notification"/>
+    <fullyQualifiedTypeName name="com.healthcare.notification_service.model.Notification"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+</qualifiedTypeNameHistroy>

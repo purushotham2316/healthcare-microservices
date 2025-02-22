@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\HealthcareManagementSystem\api-gateway"/>
+			<item value="D:\HealthcareManagementSystem\notification-service"/>
+			<item value="D:\HealthcareManagementSystem\appointment-service"/>
+			<item value="D:\HealthcareManagementSystem\billing-service"/>
+			<item value="D:\HealthcareManagementSystem\medical-records-service"/>
+			<item value="D:\HealthcareManagementSystem\user-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="api-gateway"/>
+			<item value="notification-service"/>
+			<item value="appointment-service"/>
+			<item value="billing-service"/>
+			<item value="medical-records-service"/>
+			<item value="Healthcare-Management-system"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

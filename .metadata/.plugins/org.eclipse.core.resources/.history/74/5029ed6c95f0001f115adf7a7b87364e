@@ -1,0 +1,10 @@
+spring.application.name=notification-service
+server.port=8085
+
+spring.data.mongodb.uri=mongodb+srv://root:root@cluster0.uwcmo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+spring.data.mongodb.database=healthcare
+
+
+spring.kafka.bootstrap-servers=localhost:9092
+spring.kafka.consumer.group-id=notification-group
+spring.kafka.consumer.auto-offset-reset=earliest

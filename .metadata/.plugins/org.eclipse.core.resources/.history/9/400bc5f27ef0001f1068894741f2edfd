@@ -1,0 +1,5 @@
+package com.healthcare.billing_service.repository;
+
+public class BillingRepository {
+
+}

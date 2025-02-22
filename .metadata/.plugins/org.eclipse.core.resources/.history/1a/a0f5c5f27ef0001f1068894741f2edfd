@@ -1,0 +1,7 @@
+package com.healthcare.billing_service.repository;
+
+import com.healthcare.billing_service.model.Billing;
+
+public class BillingRepository extends Mongorepository<Billing,String>{
+
+}
